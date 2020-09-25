@@ -22,6 +22,7 @@ title: Nguyen Tuan Long
 email: 18020795@vnu.edu.vn
 description: >- # this means to ignore newlines until "baseurl:"
 Vietnam National University-Univerity of Engineer and Technology
+baseurl: "/jekyll"
 url: "https://github.com/NguyenTuanLong" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: NguyenTuanLong
 
